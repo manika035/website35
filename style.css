@@ -1,0 +1,28 @@
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/002/723/895/large_2x/modern-background-with-fluid-shape-pastel-color-and-hand-draw-line-on-blue-pastel-background-flat-minimal-design-free-vector.jpg');
+  background-repeat: repeat,;
+  background-size: cover;
+  font-family: 'Kanit', sans-serif;
+}
+
+header {
+  background-color: black;
+  color : white;
+  height: 70px;
+  padding: 10px;
+  text-align: center  ;
+}
+
+footer {
+  background-color: black;
+  color : white;
+  height: 70px;
+  padding: 10px; 
+  text-align: center;
+}
+
+.mainpage 
+  {
+      width: 1024px; 
+      margin: 0 auto;
+  }
