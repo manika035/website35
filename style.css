@@ -20,7 +20,6 @@ footer {
   padding: 10px; 
   text-align: center;
 }
-
 .mainpage 
   {
       width: 1024px; 
@@ -40,4 +39,13 @@ headname2
 background-image:url("images/chanthaburi-cover.jpeg");
 height:320px;
 padding:auto;
+}
+.maps
+{
+  border: 1px slateblue;
+}
+.top10
+{
+  background-color: beige;
+  padding: 10px;
 }
