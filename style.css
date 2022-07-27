@@ -7,14 +7,14 @@ body {
 
 header {
   background-color: black;
-  color: rgb(89, 231, 160);
+  color: rgb(252, 253, 253);
   height: 100px;
   padding: 10px;
 }
 
 footer {
   background-color: black;
-  color: rgb(157, 225, 241);
+  color: rgb(241, 248, 250);
   height: 50px;
   padding: 10px;
   text-align: center;
